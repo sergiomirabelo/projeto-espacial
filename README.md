@@ -43,6 +43,8 @@ projeto-espacial/
 4. A senha para acessar as coordenadas é: `FIAP2026`
 
 ## 🖥️ Status Completo do Sistema
+
+<pre>
 ====== STATUS COMPLETO DO SISTEMA ======
 === DADOS DA MISSÃO ===
 Trajetória: Terra → Marte
@@ -65,6 +67,8 @@ Eficiência: 92.0%
 Temperatura: ✅ Ligado
 Pressão:     ✅ Ligado
 Radiação:    ✅ Ligado
+========================================
+</pre>
 
 ## 🛠️ Tecnologia
 
