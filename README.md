@@ -42,6 +42,30 @@ projeto-espacial/
 3. Execute o arquivo `SistemaMonitoramento.java`
 4. A senha para acessar as coordenadas é: `FIAP2026`
 
+## 🖥️ Status Completo do Sistema
+====== STATUS COMPLETO DO SISTEMA ======
+=== DADOS DA MISSÃO ===
+Trajetória: Terra → Marte
+Combustível: 100.0%
+Tripulantes: 4
+Coordenadas: [PROTEGIDAS POR SENHA]
+--- Propulsão Química ---
+Motor: Propulsão Química
+Ligado: Não
+Potência: 0.0%
+Combustível: Hidrogênio Líquido
+Propelente: 1000,0 kg
+--- Propulsão Elétrica ---
+Motor: Propulsão Elétrica
+Ligado: Não
+Potência: 0.0%
+Bateria: 100,0%
+Eficiência: 92.0%
+--- Sensores ---
+Temperatura: ✅ Ligado
+Pressão:     ✅ Ligado
+Radiação:    ✅ Ligado
+
 ## 🛠️ Tecnologia
 
 - Java
